@@ -3,7 +3,6 @@ import React from 'react'
 import pic3 from '../assets/images/why.jpg';
 import pic4 from '../assets/images/for_me.jpg';
 import pic5 from '../assets/images/begin.jpg';
-import pic6 from '../assets/images/Fees.jpg';
 
 const q = () => {
     return (
